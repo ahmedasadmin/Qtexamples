@@ -1,2 +1,2 @@
-Qtexamples is for Qt c++ framework projects
+Qtexamples ++ for Qt c++ framework projects
 
