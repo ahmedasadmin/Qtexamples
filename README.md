@@ -1,2 +1,1 @@
-##Qtexamples ++ for Qt c++ framework projects
-
+# projects and simple works 
